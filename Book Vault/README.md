@@ -1,4 +1,4 @@
-📚 Library Management System
+📚 Book Vault
 
 A simple command-line Library Management System built with Python using Object-Oriented Programming (OOP).
 
